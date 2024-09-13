@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-module",
+    "name": "timurturdyev/doctrine-module",
     "description": "Laminas Module that provides Doctrine basic functionality required for ORM and ODM modules",
     "license": "MIT",
     "type": "library",
@@ -55,7 +55,7 @@
         "laminas/laminas-modulemanager": "^2.12.0",
         "laminas/laminas-mvc": "^3.3.5",
         "laminas/laminas-paginator": "^2.13.0",
-        "laminas/laminas-servicemanager": "^3.17.0",
+        "laminas/laminas-servicemanager": "^4.1",
         "laminas/laminas-stdlib": "^3.13.0",
         "laminas/laminas-validator": "^2.25.0",
         "psr/container": "^1.1.2",
